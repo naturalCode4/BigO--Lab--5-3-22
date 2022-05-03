@@ -1,3 +1,5 @@
+// I need to review space complexity. It seems I dont quite understand how it ServiceWorkerRegistration. I am assuming that the space increases with the size of an Object. Apparently it does not.
+
 //////////////////////
 //// TIME & SPACE ////
 //////////////////////
